@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Silas Penda
-- 👀 I’m interested in Data Analytics for Business Intelligence
-- 🌱 Proficient in Python, R, SQL, & Power BI
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 👀 I’m interested in Data Science, Machine Learning and Business Intelligence Analysis
+- 🌱 Proficient in Python for Data Science, SQL, & Power BI
 - 📫 You can contact me via email (pendasilas@gmail.com)
 
 <!---
